@@ -37,6 +37,11 @@
                       <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="BSP_TEST_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="BSP test" pluginName="Scala" pluginId="org.intellij.scala" />
+                    </value>
+                  </entry>
                   <entry key="ComposePreviewRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Compose Preview" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
@@ -82,6 +87,11 @@
                       <FeaturePluginData displayName="Kotlin script" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="MUnitRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="MUnit" pluginName="Scala" pluginId="org.intellij.scala" />
+                    </value>
+                  </entry>
                   <entry key="MavenRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Maven" pluginName="Maven" pluginId="org.jetbrains.idea.maven" bundled="true" />
@@ -90,6 +100,26 @@
                   <entry key="Remote">
                     <value>
                       <FeaturePluginData displayName="Remote JVM Debug" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="SbtRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="sbt Task" pluginName="Scala" pluginId="org.intellij.scala" />
+                    </value>
+                  </entry>
+                  <entry key="ScalaAmmoniteRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Ammonite" pluginName="Scala" pluginId="org.intellij.scala" />
+                    </value>
+                  </entry>
+                  <entry key="ScalaScriptConsoleRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Scala REPL" pluginName="Scala" pluginId="org.intellij.scala" />
+                    </value>
+                  </entry>
+                  <entry key="ScalaTestRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="ScalaTest" pluginName="Scala" pluginId="org.intellij.scala" />
                     </value>
                   </entry>
                   <entry key="ShConfigurationType">
@@ -102,6 +132,11 @@
                       <FeaturePluginData displayName="Space Task" pluginName="Space" pluginId="com.jetbrains.space" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="Specs2RunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Specs2" pluginName="Scala" pluginId="org.intellij.scala" />
+                    </value>
+                  </entry>
                   <entry key="TestNG">
                     <value>
                       <FeaturePluginData displayName="TestNG" pluginName="TestNG" pluginId="TestNG-J" bundled="true" />
@@ -110,6 +145,11 @@
                   <entry key="XSLT">
                     <value>
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="uTestRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="utest" pluginName="Scala" pluginId="org.intellij.scala" />
                     </value>
                   </entry>
                 </map>
