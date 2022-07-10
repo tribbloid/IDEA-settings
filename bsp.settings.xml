@@ -1,0 +1,5 @@
+<application>
+  <component name="BspSystemSettings">
+    <option name="traceBsp" value="true" />
+  </component>
+</application>
