@@ -5,7 +5,6 @@
         <entry key="1.5.1">
           <value>
             <array>
-              <option value="file:$USER_HOME$/.ivy2/cache/com.geirsson/scalafmt-cli_2.12/jars/scalafmt-cli_2.12-1.5.1.jar" />
               <option value="file:$USER_HOME$/.ivy2/cache/com.geirsson/scalafmt-core_2.12/jars/scalafmt-core_2.12-1.5.1.jar" />
               <option value="file:$USER_HOME$/.ivy2/cache/org.scalameta/scalameta_2.12/jars/scalameta_2.12-1.7.0.jar" />
               <option value="file:$USER_HOME$/.ivy2/cache/org.scalameta/common_2.12/jars/common_2.12-1.7.0.jar" />
@@ -30,10 +29,8 @@
               <option value="file:$USER_HOME$/.ivy2/cache/com.geirsson/metaconfig-core_2.12/jars/metaconfig-core_2.12-0.4.0.jar" />
               <option value="file:$USER_HOME$/.ivy2/cache/com.geirsson/metaconfig-typesafe-config_2.12/jars/metaconfig-typesafe-config_2.12-0.4.0.jar" />
               <option value="file:$USER_HOME$/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar" />
-              <option value="file:$USER_HOME$/.ivy2/cache/com.martiansoftware/nailgun-server/jars/nailgun-server-0.9.1.jar" />
-              <option value="file:$USER_HOME$/.ivy2/cache/com.github.scopt/scopt_2.12/jars/scopt_2.12-3.5.0.jar" />
-              <option value="file:$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.8.jar" />
-              <option value="file:$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.15.jar" />
+              <option value="file:$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.15.jar" />
             </array>
           </value>
         </entry>
